@@ -1,11 +1,10 @@
-/**
- * File: csci1302/ch16/MileageCalculator.java
- * Package: ch16
- * @author Christopher Williams
- * Created on: Apr 12, 2017
- * Last Modified: Apr 15, 2019
- * Description:  
+/* Ginny Lott-Shaw
+ * CSCI 1302
+ * In-Class Assignment 4
+ * This program creates a window that calculates mileage based on user inputs of miles traveled and gallons of gas.  This program
+ * also uses the metric units liters and kilometers.
  */
+
 package ch14;
 
 import javafx.application.Application;
